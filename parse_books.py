@@ -57,7 +57,7 @@ if __name__ == "__main__":
     template_img_url = "http://tululu.org/images/nopic.gif"
     download_url = "https://tululu.org/txt.php"
 
-    urls = ["https://tululu.org/b58181/", "https://tululu.org/b58176/", "https://tululu.org/b75300/", "https://tululu.org/b76136/", "https://tululu.org/b71641/", "https://tululu.org/b68895/", "https://tululu.org/b75869/", "https://tululu.org/b78964/", "https://tululu.org/b75287/", "https://tululu.org/b45863/", "https://tululu.org/b14828/", "https://tululu.org/b73279/"]
+    urls = ["https://tululu.org/b58181/", "https://tululu.org/b58176/", "https://tululu.org/b75300/", "https://tululu.org/b76136/", "https://tululu.org/b71641/", "https://tululu.org/b68895/", "https://tululu.org/b75869/", "https://tululu.org/b78964/", "https://tululu.org/b75287/", "https://tululu.org/b45863/", "https://tululu.org/b14828/", "https://tululu.org/b73279/", "https://tululu.org/b81568/"]
 
     os.makedirs("./media/images", exist_ok = True)
     os.makedirs("./media/books", exist_ok = True)
